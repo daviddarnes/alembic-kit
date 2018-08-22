@@ -6,3 +6,4 @@ There are several different starting points in this repo that you can download:
 - [Regular theme gem](https://github.com/daviddarnes/alembic-starters/)
 - [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-starters/tree/remote-theme)
 - [Theme gem with Forestry integration](https://github.com/daviddarnes/alembic-starters/tree/forestry)
+- [Theme gem with Netlify CMS integration](https://github.com/daviddarnes/alembic-starters/tree/netlify-cms)
