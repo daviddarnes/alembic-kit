@@ -1,5 +1,5 @@
 # Set theme
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 
 # Site settings
 url: mydomain.com
