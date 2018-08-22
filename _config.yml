@@ -1,6 +1,12 @@
 # Set theme
 remote_theme: daviddarnes/alembic
 
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
 # Set plugins
 plugins:
 - jekyll-sitemap
