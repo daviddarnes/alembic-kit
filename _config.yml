@@ -1,6 +1,17 @@
 # Set theme
 remote_theme: daviddarnes/alembic
 
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+
 # Site settings
 url: mydomain.com
 baseurl: ''
