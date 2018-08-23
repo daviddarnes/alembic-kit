@@ -24,6 +24,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
+logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
@@ -38,3 +39,13 @@ navigation_header:
 # Footer nav
 navigation_footer:
   Back to top: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "https://picsum.photos/2560/600?image=866"

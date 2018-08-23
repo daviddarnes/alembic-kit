@@ -1,9 +1,9 @@
-# Starter code for [Alembic](https://alembic.darn.es/)
+# Starter kit for [Alembic](https://alembic.darn.es/)
 
-This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme)
+This is a very simple starting point if you wish to use Alembic [as a Jekyll theme gem](https://alembic.darn.es/#as-a-jekyll-theme) or as a [GitHub Pages remote theme]() (see `remote-theme` branch).
 
-There are several different starting points in this repo that you can download:
-- [Regular theme gem](https://github.com/daviddarnes/alembic-starters/)
-- [GitHub Pages remote theme](https://github.com/daviddarnes/alembic-starters/tree/remote-theme)
-- [Theme gem with Forestry integration](https://github.com/daviddarnes/alembic-starters/tree/forestry)
-- [Theme gem with Netlify CMS integration](https://github.com/daviddarnes/alembic-starters/tree/netlify-cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit)
+
+or
+
+**[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
