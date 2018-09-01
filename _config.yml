@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: mydomain.com
+url: 'https://mydomain.com'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
