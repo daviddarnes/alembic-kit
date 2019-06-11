@@ -32,13 +32,17 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  About: /about/
-  Blog: /blog/
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+- title: Back to top
+  url: "#top"
 
 # Collections
 collections:
